@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /studio/
+
+# Sitemap location
+Sitemap: https://yesptech.in/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
